@@ -25,4 +25,4 @@ export const DUMMY_DATA = [{
         "clientID": "98",
         "subcategory": "subcategory 91"
     }
-]
+];
